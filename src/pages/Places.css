@@ -1,0 +1,34 @@
+#banner-con{
+    width: 550px;
+    height: 440px;
+}
+
+.paragraph-right{
+    text-align: justify !important;
+    margin-left: 40px;
+    font-size: 16.8px;
+}
+
+.headding-right{
+    margin-left: 40px !important;
+}
+
+.Place-image{
+    width: 210px;
+    height: 270px;
+}
+
+.Place-image-right{
+    width: 200px;
+    height: 270px;
+    margin-inline: -30px;
+    margin-inline-end: 0px !important;
+    
+}
+
+.paragraph-left{
+    text-align: justify !important;
+    margin-right: 20px !important;
+    padding-right: 0% !important;
+    font-size: 16.8px;
+}

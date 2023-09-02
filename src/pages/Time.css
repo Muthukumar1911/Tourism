@@ -1,0 +1,56 @@
+.para-align{
+    text-align: justify !important;
+}
+
+p{
+    text-align: justify !important;
+}
+
+#para-top-top{
+    word-spacing: 4.5px;
+}
+
+#best-time-to-visit{
+    font-size: 20px;
+    font-weight: 10px;
+}
+
+.para-heading{
+    font-size: 21px;
+}
+
+.offcanvas-heading{
+    margin-left: 20px;
+    font-size: 25px !important;
+    text-align: center !important;
+}
+
+.Accordian-image{
+    width: 490px !important;
+    height: 300px;
+}
+
+.modal-image{
+    width: 130px;
+    height: 200px;
+    align-items: center !important;
+}
+
+h6{
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.bolder-text{
+    font-weight: bolder;
+}
+
+.centeer{
+    text-align: center !important;
+    margin-left: 125px;
+}
+
+.centeeer{
+    text-align: center !important;
+    margin-left: 70px;
+}

@@ -1,0 +1,36 @@
+.Navigation{
+    background-color: rgba(133, 131, 131, 0.712) !important;
+    color: white !important;
+}
+
+.Navigation .Na .Navi{
+    font-weight: 700 !important;
+}
+.Carousel{
+    height: 500px !important;
+}
+
+.chennai-img{
+    height: 550px !important;
+}
+
+h3{
+    font-weight: 500;
+    word-spacing: 4px;
+    
+}
+
+.Districts a{
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 20px;
+    word-spacing: 3px !important;
+}
+
+h5{
+    font-weight: 600;
+}
+
+p{
+    text-align: justify !important;
+}

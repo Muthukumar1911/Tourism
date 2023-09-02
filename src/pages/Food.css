@@ -1,0 +1,22 @@
+.food1{
+    width: 260px;
+    height: 230px;
+    padding-top: 15px;
+}
+
+.food{
+    width: 261px;
+    height: 230px;
+    padding-top: 15px;
+}
+
+span{
+    margin-left: 70px;
+}
+
+.space{
+    font-size: 16.7px;
+    text-align: justify !important;
+    line-height: 26px;
+}
+
